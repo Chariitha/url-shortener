@@ -25,3 +25,4 @@ dist-ssr
 
 BACKEND/node_modules/
 BACKEND/.env
+FRONTEND/node_modules/
